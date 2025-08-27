@@ -13,6 +13,18 @@
 
 ---
 
+## 📌 Featured Projects
+- **[Library Management System](https://github.com/AayushShrestha14/library-system)**  
+  A Java Swing + file persistence project managing members, books, and loans.  
+
+- **[E-Commerce Platform](https://github.com/AayushShrestha14/ecommerce-angular-spring)**  
+  Full-stack project using Spring Boot & Angular with authentication, cart, and checkout.  
+
+- **[Tag-based File Uploader](https://github.com/AayushShrestha14/file-uploader)**  
+  Upload and manage files with tag-based search and filtering (PostgreSQL + React/Angular frontend).  
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushshrestha14&count_private=true&show_icons=true&theme=tokyonight)
 
