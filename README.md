@@ -13,6 +13,13 @@
 
 ---
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AayushShrestha14&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushShrestha14&layout=compact&theme=tokyonight)
+
+---
+
 ## 🌱 Currently Learning
 - Advanced Spring Security 6  
 - Angular performance optimization  
