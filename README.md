@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Aayush
 
-<!--
-**AayushShrestha14/AayushShrestha14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer specializing in **Java (Spring)** and **Angular**  
+🚀 Passionate about building scalable, user-friendly applications  
+📚 Lifelong learner, open-source contributor, and tech enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Backend:** Java, Spring Framework, Hibernate, REST APIs, PostgreSQL/MySQL  
+- **Frontend:** Angular, TypeScript, HTML, CSS, Bootstrap/Material  
+- **Tools & DevOps:** Git, Docker, Maven/Gradle, Jenkins, VS Code/IntelliJ  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Spring Security 6  
+- Angular performance optimization  
+- Cloud deployment with Docker & Render  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/aayush-lal-shrestha](https://www.linkedin.com/in/aayush-lal-shrestha/)    
+- Email: mail2ayus@yahoo.com
